@@ -1,0 +1,12 @@
+{
+  "name": "multi-worker-pm-skill",
+  "version": "0.1.0",
+  "description": "Deterministic select/classify helpers for the multi-worker-pm coding-agent plugin",
+  "license": "MIT",
+  "author": "Kevin Old",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "test": "node --test scripts/multi-worker-pm/*.test.mjs"
+  }
+}

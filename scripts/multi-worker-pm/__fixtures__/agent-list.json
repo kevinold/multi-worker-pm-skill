@@ -1,0 +1,31 @@
+{
+  "ok": true,
+  "agents": [
+    {
+      "agent": "claude",
+      "agent_status": "idle",
+      "cwd": "/Users/dev/projects/myapp",
+      "focused": false,
+      "foreground_cwd": "/Users/dev/projects/myapp",
+      "pane_id": "w0:p1",
+      "revision": 11,
+      "state_change_seq": 94,
+      "tab_id": "w0:t1",
+      "workspace_id": "w0"
+    },
+    {
+      "agent": "claude",
+      "agent_status": "working",
+      "cwd": "/Users/dev/projects/myapp",
+      "focused": true,
+      "foreground_cwd": "/Users/dev/projects/myapp/.claude/worktrees/chore-42-example",
+      "interactive_ready": true,
+      "name": "w42",
+      "pane_id": "w0:p7",
+      "revision": 3,
+      "state_change_seq": 90,
+      "tab_id": "w0:t1",
+      "workspace_id": "w0"
+    }
+  ]
+}

@@ -1,0 +1,190 @@
+[
+  {
+    "number": 1912,
+    "title": "chore(deps): update node.js to v22.23.2",
+    "headRefName": "fix-dep-node-22-x",
+    "isDraft": false,
+    "author": {
+      "login": "app/renovate",
+      "is_bot": true
+    },
+    "mergeStateStatus": "UNSTABLE",
+    "statusCheckRollup": [
+      {
+        "__typename": "CheckRun",
+        "name": "label",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "Auto-label"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "set-pending",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "e2e-set-pending"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (1/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (2/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (3/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (4/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "StatusContext",
+        "context": "e2e/report",
+        "state": "FAILURE"
+      },
+      {
+        "__typename": "StatusContext",
+        "context": "renovate/stability-days",
+        "state": "SUCCESS"
+      }
+    ]
+  },
+  {
+    "number": 1911,
+    "title": "chore(deps): update cypress-io/github-action action to v7.4.2",
+    "headRefName": "fix-dep-cypress-io-github-action-7-x",
+    "isDraft": false,
+    "author": {
+      "login": "app/renovate",
+      "is_bot": true
+    },
+    "mergeStateStatus": "UNSTABLE",
+    "statusCheckRollup": [
+      {
+        "__typename": "CheckRun",
+        "name": "label",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "Auto-label"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "set-pending",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "e2e-set-pending"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (1/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (2/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (3/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (4/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "StatusContext",
+        "context": "e2e/report",
+        "state": "FAILURE"
+      },
+      {
+        "__typename": "StatusContext",
+        "context": "renovate/stability-days",
+        "state": "SUCCESS"
+      }
+    ]
+  },
+  {
+    "number": 1362,
+    "title": "chore(deps): update testing",
+    "headRefName": "fix-dep-testing",
+    "isDraft": false,
+    "author": {
+      "login": "app/renovate",
+      "is_bot": true
+    },
+    "mergeStateStatus": "UNSTABLE",
+    "statusCheckRollup": [
+      {
+        "__typename": "CheckRun",
+        "name": "set-pending",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "e2e-set-pending"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (1/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (2/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (3/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "CheckRun",
+        "name": "vitest (4/4)",
+        "status": "COMPLETED",
+        "conclusion": "SUCCESS",
+        "workflowName": "vitest"
+      },
+      {
+        "__typename": "StatusContext",
+        "context": "e2e/report",
+        "state": "FAILURE"
+      },
+      {
+        "__typename": "StatusContext",
+        "context": "renovate/stability-days",
+        "state": "SUCCESS"
+      }
+    ]
+  }
+]
