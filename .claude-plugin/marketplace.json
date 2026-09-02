@@ -1,0 +1,28 @@
+{
+  "name": "multi-worker-pm-skill",
+  "owner": {
+    "name": "Kevin Old"
+  },
+  "metadata": {
+    "description": "Marketplace for the multi-worker-pm coding-agent plugin",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "multi-worker-pm",
+      "description": "Run one coding-agent session as an autonomous PM over a pool of parallel worker agents in herdr panes",
+      "author": {
+        "name": "Kevin Old"
+      },
+      "homepage": "https://github.com/kevinold/multi-worker-pm-skill",
+      "tags": [
+        "multi-agent",
+        "orchestration",
+        "project-management",
+        "workflow-automation",
+        "compound-engineering"
+      ],
+      "source": "./"
+    }
+  ]
+}

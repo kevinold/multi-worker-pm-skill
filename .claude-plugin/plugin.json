@@ -1,0 +1,20 @@
+{
+  "name": "multi-worker-pm",
+  "version": "0.1.0",
+  "description": "Run one coding-agent session as an autonomous PM over a pool of parallel worker agents in herdr panes — select scoped issues, spawn /ce-worktree + /lfg workers, unblock under a strict approval policy, reclaim, and backfill",
+  "author": {
+    "name": "Kevin Old"
+  },
+  "homepage": "https://github.com/kevinold/multi-worker-pm-skill",
+  "repository": "https://github.com/kevinold/multi-worker-pm-skill",
+  "license": "MIT",
+  "keywords": [
+    "multi-agent",
+    "orchestration",
+    "project-management",
+    "workflow-automation",
+    "compound-engineering",
+    "renovate",
+    "github"
+  ]
+}
